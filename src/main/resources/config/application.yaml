@@ -1,0 +1,10 @@
+my:
+  server:
+    - dev.example.com
+    - author.example.com
+redis:
+  redisConfigs:
+    - host: 192.168.66.128
+      port: 6379
+    - host: 192.168.66.129
+      port: 6380
